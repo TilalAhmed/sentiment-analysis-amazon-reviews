@@ -1,0 +1,10 @@
+pandas
+numpy
+nltk
+textblob
+vaderSentiment
+wordcloud
+matplotlib
+seaborn
+plotly
+cufflinks
