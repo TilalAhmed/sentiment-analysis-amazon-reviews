@@ -1,10 +1,4 @@
-pandas
-numpy
+streamlit
 nltk
 textblob
 vaderSentiment
-wordcloud
-matplotlib
-seaborn
-plotly
-cufflinks
