@@ -1,4 +1,7 @@
 streamlit
-nltk
 textblob
 vaderSentiment
+nltk
+pandas
+numpy
+plotly
