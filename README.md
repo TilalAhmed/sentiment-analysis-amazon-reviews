@@ -1,4 +1,4 @@
-[![Live Demo](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://sentiment-analysis-amazon-reviews-a5cn2wx3tcxdkdb8gmyf7d.streamlit.app/)
+[![Live Demo](https://huggingface.co/spaces/TilalAhmed/Fake-News-Detection)
 # Sentiment Analysis of Amazon Reviews
 
 An NLP project that analyzes Amazon product reviews and classifies them as **Positive**, **Negative**, or **Neutral** using VADER and TextBlob sentiment analysis tools.
