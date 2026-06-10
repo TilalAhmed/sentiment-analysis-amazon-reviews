@@ -1,4 +1,4 @@
-[![Live Demo](https://huggingface.co/spaces/TilalAhmed/Sentiment_Analysis_of_Amazon_Reviews)
+[![Live Demo](https://img.shields.io/badge/🤗%20Live%20Demo-Sentiment%20Analysis-blue)](https://huggingface.co/spaces/TilalAhmed/Sentiment_Analysis_of_Amazon_Reviews)
 # Sentiment Analysis of Amazon Reviews
 
 An NLP project that analyzes Amazon product reviews and classifies them as **Positive**, **Negative**, or **Neutral** using VADER and TextBlob sentiment analysis tools.
